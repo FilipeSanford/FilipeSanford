@@ -1,7 +1,8 @@
-### Olá, sou o Filipe Sanford 😃👍
+### Fala galerinha, tudo bem com vcs? 😃👍
 
-Estudando HTML, CSS e Javascript
-
+#
+Estudando HTML, CSS, Javascript, React JS, Node JS, React Native..💻📚🎓
+#
 <div>
   <a href="https://github.com/filipesanford"><!--posso direcionar aqui p onde eu quiser, até p meu site-->
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=filipesanford&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
