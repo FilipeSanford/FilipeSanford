@@ -1,7 +1,7 @@
 ### Fala galerinha, tudo bem com vcs? 😃👍
 
 #
-Estudando HTML, CSS, Javascript, React JS, Node JS, React Native..💻📚🎓
+HTML, CSS, Javascript, React JS, Node JS, PHP, MySQL..💻📚🎓
 #
 <div>
   <a href="https://github.com/filipesanford"><!--posso direcionar aqui p onde eu quiser, até p meu site-->
