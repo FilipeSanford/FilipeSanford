@@ -1,7 +1,7 @@
 ### Fala galerinha, tudo bem com vcs? 😃👍
 
 #
-HTML, CSS, Javascript, React JS, Node JS, PHP, MySQL..💻📚🎓
+HTML, CSS, Javascript, TypeScript, React JS, Node JS, Bootstrap, MySQL/MariaDB..💻📚🎓
 #
 <div>
   <a href="https://github.com/filipesanford"><!--posso direcionar aqui p onde eu quiser, até p meu site-->
