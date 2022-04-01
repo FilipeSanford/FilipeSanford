@@ -1,6 +1,6 @@
 ### Fala galerinha, tudo bem com vcs? 😃👍
 
-Me chamo Filipe, tenho 44 anos e estou em transição de carreira. Sou formado desde 2008 na área da saúde, pós-graduado e estou migrando para área de TI.
+Me chamo Filipe e estou em transição de carreira. Sou formado desde 2008 na área da saúde, pós-graduado e estou migrando para área de TI.
 
 Hoje, possuo conhecimento em: HTML, CSS, JS, Bootstrap, Git/GitHub e aprendendo nesse momento ReactJS, TypeScript, NodeJS, MySQL/MariaDB, Kotlin. 
 
