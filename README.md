@@ -2,7 +2,7 @@
 
 Me chamo Filipe e estou em transição de carreira. Sou formado desde 2008 na área da saúde, pós-graduado e estou migrando para área de TI.
 
-Hoje, possuo conhecimento em: HTML, CSS, JS, Bootstrap, Git/GitHub e aprendendo nesse momento ReactJS, TypeScript, NodeJS, MySQL/MariaDB, Kotlin. 
+Hoje, possuo conhecimento em: HTML, CSS, JS, Bootstrap, Git/GitHub e aprendendo nesse momento ReactJS, TypeScript, NodeJS e MySQL/MariaDB. 
 
 Estou no último ano da faculdade de Sistemas para Internet na Ulbra/RS com conclusão prevista para dezembro de 2022. 
 
