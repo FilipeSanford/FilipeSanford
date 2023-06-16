@@ -2,12 +2,12 @@
 
 Me chamo Filipe e estou em transição de carreira. Sou formado desde 2008 na área da saúde, pós-graduado e estou migrando para área de TI.
 
-Hoje, possuo conhecimento em: HTML, CSS, JS, Bootstrap, Git/GitHub e aprendendo nesse momento ReactJS, TypeScript, NodeJS e MySQL/MariaDB. 
+Hoje, possuo conhecimento em: HTML, CSS, JS, Bootstrap, Git/GitHub, PHP, MySQL/MariaDB e estudando nesse mommento Java . 
 
-Estou no último ano da faculdade de Sistemas para Internet na Ulbra/RS com conclusão prevista para dezembro de 2022. 
+Estou finalizando nesse semestre 2023/1 a faculdade de Sistemas para Internet na Ulbra/RS. 
 
 #
-HTML, CSS, Javascript, TypeScript, React JS, Node JS, Bootstrap, MySQL/MariaDB..💻📚🎓
+HTML, CSS, Javascript, PHP, Java, Bootstrap, MySQL/MariaDB..💻📚🎓
 #
 <div>
   <a href="https://github.com/filipesanford"><!--posso direcionar aqui p onde eu quiser, até p meu site-->
@@ -18,9 +18,7 @@ HTML, CSS, Javascript, TypeScript, React JS, Node JS, Bootstrap, MySQL/MariaDB..
 <div style="display: inline_block"><br>
   <img align="center" alt="filipe-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="filipe-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="filipe-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="filipe-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="filipe-Node" height="30" width="40" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+  <img align="center" alt="filipe-Js" height="30" width="40"  
  </div>
   
   ##
