@@ -2,12 +2,12 @@
 
 Me chamo Filipe e estou em transição de carreira. Sou formado desde 2008 na área da saúde, pós-graduado e estou migrando para área de TI. Recém formado em Sistemas para Internet na ULBRA/RS estou começando a trabalhar paralelamente como desenvolvimento web. E minha meta profissional é conseguir viver só da TI num futuro muito próximo.
 
-Conhecimento em HTML, CSS, JS, Bootstrap, Git/GitHub, PHP, MySQL/MariaDB e estudando nesse momento Laravel. 
+Conhecimento em HTML, CSS, JS, Bootstrap, Git/GitHub, PHP, MySQL/MariaDB e estudando nesse momento C#. 
 
 Formado em Sistemas para Internet Ulbra/RS. 
 
 #
-HTML, CSS, Javascript, PHP, Bootstrap, Laravel, MySQL/MariaDB..💻📚🎓
+HTML, CSS, Javascript, PHP, Bootstrap, C#, MySQL/MariaDB..💻📚🎓
 #
 <div>
   <a href="https://github.com/filipesanford"><!--posso direcionar aqui p onde eu quiser, até p meu site-->
